@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayal Nogovitsyn</h1>
-<h3 align="center">I'm a Full stack developer, currently in Hong Kong 📍</h3>
+<h2 align="center">🚀 Software Engineer | Front-end Developer | Data Scientist | Educator 🚀</h3>
+<h3 align="center">Currently in Hong Kong 📍</h3>
 
 - 🔭 I’m currently working on **AI SaaS**
 
@@ -8,8 +9,6 @@
 - 💬 Ask me about **React, TypeScript, Python**
 
 - 📫 How to reach me **ayal.nogovitsyn@gmail.com**
-
-## 🚀 Software Engineer | Front-end Developer | Data Scientist | Educator 🚀
 
 I am a versatile professional with a passion for technology, innovation, and education. With over 7 years of experience, I bring a unique blend of skills encompassing software engineering, front-end development, data science, and education. Let me walk you through my journey.
 
