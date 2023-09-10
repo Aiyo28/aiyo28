@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayal Nogovitsyn</h1>
-<h3 align="center">I'm a Full stack developer from Siberia, currently in Hong Kong 📍</h3>
+<h3 align="center">I'm a Full stack developer, currently in Hong Kong 📍</h3>
 
 - 🔭 I’m currently working on **AI SaaS**
 
