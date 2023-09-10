@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Ayal Nogovitsyn 
 
 🚀 ## Software Engineer | Front-end Developer | Data Scientist | Educator 🚀
+
 I am a versatile professional with a passion for technology, innovation, and education. With over 7 years of experience, I bring a unique blend of skills encompassing software engineering, front-end development, data science, and education. Let me walk you through my journey.
 
 👨‍💻 ## Software Engineering: 
