@@ -14,10 +14,10 @@
 <a href="https://linkedin.com/in/ayalnogovitsyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayalnogovitsyn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
 
-## Front End Skills: 
+### Front End Skills: 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -29,7 +29,7 @@
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 
-## Back End Skills: 
+### Back End Skills: 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-## Data Science / ML Skills: 
+### Data Science / ML Skills: 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
@@ -48,7 +48,7 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
-## Other Skills: 
+### Other Skills: 
  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -59,35 +59,34 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
+# About me: 
 
-### Hi there 👋 My name is Ayal Nogovitsyn 
-
-🚀 ## Software Engineer | Front-end Developer | Data Scientist | Educator 🚀
+## 🚀 Software Engineer | Front-end Developer | Data Scientist | Educator 🚀
 
 I am a versatile professional with a passion for technology, innovation, and education. With over 7 years of experience, I bring a unique blend of skills encompassing software engineering, front-end development, data science, and education. Let me walk you through my journey.
 
-👨‍💻 ## Software Engineering: 
+## 👨‍💻 Software Engineering: 
 Currently serving as a Software Engineer at North-East Federal University, I specialize in developing sophisticated software solutions for computing systems of varying complexity. My expertise extends to AI technologies, including Python, Keras, PyTorch, and TensorFlow. I've successfully led projects, integrating cutting-edge technologies such as TypeScript and Node.js to drive efficient development and delivery.
 
-🌐 ## Front-end Development: 
+## 🌐 Front-end Development: 
 My proficiency lies in front-end development, where I've honed skills in HTML, CSS, JavaScript, React, Redux, and Typescript. Whether it's crafting engaging user interfaces, optimizing web performance, or collaborating seamlessly with cross-functional teams, I'm committed to delivering top-notch web and mobile applications.
 
-🧮 ## Data Science:
+## 🧮 Data Science:
 Data is the cornerstone of innovation, and I've delved deep into data science, applying AI techniques to predict environmental changes that impact structural compositions. My work in AI-driven projects has showcased my ability to leverage Python, Keras, PyTorch, and TensorFlow to develop advanced models and solutions.
 
-📚 ## Education: 
+## 📚 Education: 
 Teaching is close to my heart. As an Education Lead at North-East Federal University, I've had the privilege of imparting knowledge in AI and machine learning to budding talents. Guiding a cohort of 24 students, aged 13-18, I've witnessed the transformative power of education.
 
-🌏 ## Global Experience: 
+## 🌏 Global Experience: 
 My journey has taken me across international markets, working with diverse clients in catering, retail, and more. I've helped businesses boost their online presence through user-friendly websites, using frameworks like React and WordPress. Plus, my IT recruitment consultancy experience underscores my commitment to building lasting relationships and delivering top talent.
 
-🌟 ## Key Competencies:
+## 🌟 Key Competencies:
 My skill set spans a wide spectrum, including database management (MySQL, MongoDB), data mining, data analysis, and the ability to adapt and communicate effectively. My hard skills are complemented by a strong foundation in problem-solving, teamwork, adaptability, self-management, and emotional intelligence.
 
-📈 ## Continuous Growth: 
+## 📈 Continuous Growth: 
 I thrive in dynamic environments, with a knack for adapting to evolving technologies and trends. My career journey reflects my dedication to continuous learning, whether through upskilling in the latest frameworks or embracing data-driven practices.
 
-🌐 ## Languages: 
+## 🌐 Languages: 
 My language proficiency includes fluency in English and Russian, opening doors to global collaboration and communication.
 
 Let's Connect! 🤝
