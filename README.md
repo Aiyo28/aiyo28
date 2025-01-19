@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayal Nogovitsyn</h1>
 <h3 align="center">🚀 Software Engineer | Front-end Developer | Data Scientist | Educator 🚀</h3>
-<h3 align="center">Currently in Hong Kong 📍</h3>
 
 # 💫 About Me:
 🔭 Currently Working On:
