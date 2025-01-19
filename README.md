@@ -3,7 +3,23 @@
 <h3 align="center">Currently in Hong Kong 📍</h3>
 
 # 💫 About Me:
-HSE Tracker for businesses<br>Collaborate with AI engine developer <br>Looking to help people be more productive and help with daily troubles<br>Currently learning new ways to us AI agents <br>Ask me about warhammer 40k <br>I love to run and watch new tv shoes and anime
+🔭 Currently Working On:
+Developing an HSE Tracker for businesses to streamline safety and compliance.
+
+🤝 Looking to Collaborate On:
+AI-powered engine development for smarter, more intuitive solutions.
+
+✨ Looking to Help With:
+Boosting productivity and solving everyday challenges with innovative tools.
+
+🌱 Currently Learning:
+Exploring creative applications of AI agents to redefine problem-solving.
+
+💬 Ask Me About:
+The grimdark universe of Warhammer 40k—from lore to strategy, I’m your go-to!
+
+⚡ Fun Fact:
+I’m passionate about running, discovering new TV shows, and diving into anime universes.
 
 
 ## 🌐 Socials:
